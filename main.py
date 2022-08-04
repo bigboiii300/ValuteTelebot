@@ -36,7 +36,7 @@ def get_currency_list(date_input=now.strftime("%d/%m/%Y")):
 
 
 # Инициализация бота
-bot = telebot.TeleBot('5562651062:AAFTKNV5jOBYJc_YbTFIpwL3WZMOzdv3xMY')
+bot = telebot.TeleBot('you need to take your personal key)')
 
 
 @bot.message_handler(commands=['start'])
